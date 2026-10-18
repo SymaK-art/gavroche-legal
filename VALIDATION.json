@@ -1,0 +1,27 @@
+{
+  "preparedAt": "2026-10-18",
+  "published": false,
+  "contentApproved": false,
+  "editor": {
+    "name": "Kevin Chagna",
+    "status": "personne physique",
+    "address": "163 route de Saint-Franc, 73360 LA BAUCHE, France",
+    "email": "support.gavroche@gmail.com"
+  },
+  "futureCompany": {
+    "name": "CUBE SHIFT",
+    "form": "SASU française en cours de création",
+    "plannedCapitalEUR": 500
+  },
+  "blockingDecisions": [
+    "Durée finie, justification et purge des marqueurs de suppression et empreintes anti-doublons",
+    "Rotation réelle des sauvegardes externes et du journal de suppressions ; conservation des logs Render et des échanges support",
+    "Traitement des scores/données déjà transmis à Google et audit des SDK dans l’AAB final",
+    "Public cible et mineurs, statut commercial, vendeur et médiateur avant ventes réelles",
+    "Coordonnées et contrats applicables des hébergeurs, droits sur les ressources",
+    "Validation explicite du contenu final avant publication ; accès au dépôt rétabli le 18 octobre 2026"
+  ],
+  "repository": "SymaK-art/gavroche-legal",
+  "workingBranch": "codex/legal-coordinated-20261018",
+  "repositoryAccessVerifiedAt": "2026-10-18"
+}
